@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Testtool</title>
+    <title>Fintool – Financial Literacy Podcast</title>
     <link>https://fintool.ch</link>
-    <description>This podcast covers basic financial topics and explains them in simple, understandable language. It is aimed at people who have a limited understanding of financial markets and would like to have a refresher or deepen their knowledge. From stocks and shares to bonds and index funds, all the basic asset classes are explained and placed in a broader context. A wide range of financial videos are available on the "https://fintool.ch" video platform. This podcast is provided by Fintool - Your platform for financial literacy by Dr. Prof Erwin Heri, Professor at the University of Basel, Switzerland!</description>
     <language>de</language>
+    <description>
+      Dieser Podcast erklärt Finanzthemen einfach, verständlich und praxisnah. Von Aktien bis Anleihen, von ETFs bis Tokenisierung.
+    </description>
+    <itunes:author>Fintool.ch</itunes:author>
+    <itunes:summary>
+      Dieser Podcast deckt grundlegende Finanzthemen ab und richtet sich an Menschen, die ihr Wissen auffrischen oder vertiefen möchten.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://nicolaplain.github.io/Fintool-Podcast-RSS/assets/cover.jpg" />
-   <item>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+
+    <item>
       <title>Demo-Episode</title>
       <description><![CDATA[Dies ist eine Demofolge.]]></description>
       <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
       <enclosure url="https://example.com/demo.mp3" length="12345678" type="audio/mpeg"/>
       <guid>demo-episode</guid>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
