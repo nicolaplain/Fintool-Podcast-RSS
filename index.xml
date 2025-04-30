@@ -4,22 +4,23 @@
     <title>Fintool – Financial Literacy Podcast</title>
     <link>https://fintool.ch</link>
     <language>de</language>
-    <description>
-      Dieser Podcast erklärt Finanzthemen einfach, verständlich und praxisnah. Von Aktien bis Anleihen, von ETFs bis Tokenisierung.
-    </description>
+    <description>Dieser Podcast erklärt Finanzthemen einfach, verständlich und praxisnah. Von Aktien bis Anleihen, von ETFs bis Tokenisierung.</description>
     <itunes:author>Fintool.ch</itunes:author>
-    <itunes:summary>
-      Dieser Podcast deckt grundlegende Finanzthemen ab und richtet sich an Menschen, die ihr Wissen auffrischen oder vertiefen möchten.
-    </itunes:summary>
+    <itunes:summary>Dieser Podcast deckt grundlegende Finanzthemen ab und richtet sich an Menschen, die ihr Wissen auffrischen oder vertiefen möchten.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://nicolaplain.github.io/Fintool-Podcast-RSS/assets/cover.jpg" />
+    <itunes:image href="https://nicolaplain.github.io/Fintool-Podcast-RSS/assets/cover.jpg"/>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
 
     <item>
       <title>Demo-Episode</title>
-      <description><![CDATA[Dies ist eine Demofolge.]]></description>
+      <description><![CDATA[
+        Dies ist eine Demofolge. Sie zeigt, wie der Fintool-Podcast funktioniert.
+        - Thema: Einführung in ETFs
+        - Dauer: 5 Minuten
+        - Sprecher: Prof. Dr. Erwin Heri
+      ]]></description>
       <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
       <enclosure url="https://example.com/demo.mp3" length="12345678" type="audio/mpeg"/>
       <guid>demo-episode</guid>
