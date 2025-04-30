@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Fintool - Financial Literacy 101 by Dr. Prof. Erwin Heri</title>
+    <title>Testtool</title>
     <link>https://fintool.ch</link>
     <description>This podcast covers basic financial topics and explains them in simple, understandable language. It is aimed at people who have a limited understanding of financial markets and would like to have a refresher or deepen their knowledge. From stocks and shares to bonds and index funds, all the basic asset classes are explained and placed in a broader context. A wide range of financial videos are available on the "https://fintool.ch" video platform. This podcast is provided by Fintool - Your platform for financial literacy by Dr. Prof Erwin Heri, Professor at the University of Basel, Switzerland!</description>
     <language>de</language>
-    <item>
-      ... DEINE EPISODEN ...
+   <item>
+      <title>Demo-Episode</title>
+      <description><![CDATA[Dies ist eine Demofolge.]]></description>
+      <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://example.com/demo.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>demo-episode</guid>
     </item>
   </channel>
 </rss>
