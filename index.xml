@@ -6,7 +6,10 @@
     <language>de</language>
     <description>Dieser Podcast erklärt Finanzthemen einfach, verständlich und praxisnah. Von Aktien bis Anleihen, von ETFs bis Tokenisierung.</description>
     <itunes:author>Fintool.ch</itunes:author>
-    <managingEditor>n.plain@fintool.ch (Nicola Plain)</managingEditor>
+    <itunes:owner>
+     <itunes:name>Nicola Plain</itunes:name>
+     <itunes:email>n.plain@fintool.ch</itunes:email>
+    </itunes:owner>
     <itunes:summary>Dieser Podcast deckt grundlegende Finanzthemen ab und richtet sich an Menschen, die ihr Wissen auffrischen oder vertiefen möchten.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://nicolaplain.github.io/Fintool-Podcast-RSS/assets/cover.jpg"/>
