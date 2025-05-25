@@ -31,19 +31,5 @@
   <guid>demo-episode</guid>
   <itunes:explicit>no</itunes:explicit>
 </item>
-  <item>
-    <title>Understanding Bonds - Benefits and Risks Explained</title>
-    <description><![CDATA[In this episode, we’ll delve into the mechanics of bonds, examining how they are priced, why they fluctuate in value, and how investors can benefit or be impacted by changing interest rates.
-
-- Introduction to bonds and their fundamental structure
-- Why rising interest rates affect old and new investors differently
-- The City of Yokohama Bond example: pricing and valuation
-- Understanding coupon payments, present value, and interest rate impact
-- Distinction between risk-free perception and reality for bonds over their term
-- Mathematical breakdown: future value and present value in bond calculations]]></description>
-    <pubDate>Thu, 22 May 2025 19:48:16 GMT</pubDate>
-    <enclosure url="https://drive.google.com/uc?id=1UiH-Tom0kpaEri_fAZqeTLgw5Ll0vRpt&export=download" length="12345678" type="audio/mpeg" />
-    <guid>understanding-bonds-benefits-and-risks-explained</guid>
-  </item>
 </channel>
 </rss>
